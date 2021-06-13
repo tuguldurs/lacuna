@@ -10,8 +10,8 @@ I've worked on this project leading a team ('Maizefinder') of 4 Ph.Ds from diver
 * [Pol Arranz-Gibert](https://www.linkedin.com/in/pol-a-59973614b/) (chemistry)
 * [AJ Adejaire](https://www.linkedin.com/in/aj-adejare/) (biomedical informatics)
 
-<br>
-[slides](https://docs.google.com/presentation/d/1QEwQ5oUqYZRaDev0mCwEx2z7KptmuQ-o-VEcQPdvX44/present?slide=id.p)  /  [presentation](https://www.erdosinstitute.org/may2021projects/team-7)  /  [actionable insights](https://drive.google.com/file/d/12TU2qkwaoCWCh6b2cmA7-sMACqJ7LoNV/view)  /  [certificate](https://www.erdosinstitute.org/may2021certificates/tuguldur-sukhbold)
+[slides](https://docs.google.com/presentation/d/1QEwQ5oUqYZRaDev0mCwEx2z7KptmuQ-o-VEcQPdvX44/present?slide=id.p)  |  [presentation](https://www.erdosinstitute.org/may2021projects/team-7)  |  [actionable insights](https://drive.google.com/file/d/12TU2qkwaoCWCh6b2cmA7-sMACqJ7LoNV/view)  |  [certificate](https://www.erdosinstitute.org/may2021certificates/tuguldur-sukhbold)
+
 
 ### The challenge and our approach
 
