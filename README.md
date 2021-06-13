@@ -24,9 +24,11 @@ Each field is also associated with down-sampled imagery from two satellites - [P
 <br>
 
 compilation of Sentinel-2 images for a sample field (every month of 2015):
+<br>
 <img src="./media/sentinel.gif" alt="drawing" width="200"/>
 <br>
 Planet data for the same sample field (4 epochs between 2017-19):
+<br>
 <img src="./media/planet.gif" alt="drawing" width="200"/>
 <br>
 
