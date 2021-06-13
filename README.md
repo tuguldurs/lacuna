@@ -24,11 +24,14 @@ Each field is also associated with down-sampled imagery from two satellites - [P
 
 ![](./media/data.png)
 
-sample imagery from Sentinel-2 (every month of 2015):
-![](./media/sentinel.gif)
+<br>
 
-sample imagery from Planet (4 epochs between 2017-19):
+compilation of Sentinel-2 images for a sample field (every month of 2015):
+![](./media/sentinel.gif)
+<br>
+Planet data for the same sample field (4 epochs between 2017-19):
 ![](./media/planet.gif)
+<br>
 
 The yield data were barely usable, not only because they are highly inaccurate and mostly NaN, but primarily because they are tightly correlated with the area data (we suspect they were derived from the area, not an independent measurement). The area information is good to within a factor of 2-3, the displacements were not always centered, and the images often suffered from jitter, cloud cover, aerosol darkening and blurring.
 
