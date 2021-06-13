@@ -5,7 +5,7 @@ I've worked on this project leading a team ('Maizefinder') of 4 Ph.Ds from diver
 
 ![](./media/logo.png)
 
-* Tuguldur Sukhbold (astrophysics)
+* [Tuguldur Sukhbold](https://www.linkedin.com/in/tuguldurs/) (astrophysics)
 * [Michael Darcy](https://www.linkedin.com/in/michael-darcy/) (biophysics)
 * [Pol Arranz-Gibert](https://www.linkedin.com/in/pol-a-59973614b/) (chemistry)
 * [AJ Adejaire](https://www.linkedin.com/in/aj-adejare/) (biomedical informatics)
